@@ -1,3 +1,6 @@
 Hello this will be used for older revert
+<<<<<<< HEAD
 Lets start playing with revert to older commit
 Lets try now
+=======
+>>>>>>> parent of 299fe48... my revert learninig
